@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Iponify",
+    "slug": "iponify",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jugachii.Iponify"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8e24be76-35a3-4c4d-9cef-354869f5aa3f"
+      }
+    },
+    "owner": "jugachii"
+  }
+}
